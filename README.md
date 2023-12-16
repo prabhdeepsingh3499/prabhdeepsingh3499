@@ -5,9 +5,9 @@ This is Prabhdeep Singh this side
 **prabhdeepsingh3499/prabhdeepsingh3499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently working as a Software Tester at Coforge 
 - 👯 I’m looking to collaborate on Unique Projects and Ideas
-- 🤔 I’m looking for help with Data Structures and Algorithms
+- 🤔 I’m looking for help with Data Structures,Algorithms, Automation 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prabhdeepsingh0304/), [Instagram](https://www.instagram.com/prabhdeep.singh.3499/).
 
 <p align="right">
