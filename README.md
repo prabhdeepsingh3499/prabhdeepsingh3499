@@ -7,8 +7,8 @@ This is Prabhdeep Singh this side
 
 - 🌱 I’m currently working as a Software Tester at Coforge 
 - 👯 I’m looking to collaborate on Unique Projects and Ideas
-- 🤔 I’m looking for help with Data Structures,Algorithms, Automation 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prabhdeepsingh0304/), [Instagram](https://www.instagram.com/prabhdeep.singh.3499/).
+- 🤔 I’m looking for help with Data Structures, Algorithms, Automation 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prabhdeepsingh0304/), [Instagram](https://www.instagram.com/prabhdeep_singh.3499/).
 
 <p align="right">
 <a href=https://www.instagram.com/prabhdeep.singh.3499/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="prabhdeep.singh.3499" height="20" width="20" /></a>
